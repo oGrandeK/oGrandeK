@@ -1,4 +1,4 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT
-- 🤔 I’m looking for help with how to code
+- 🌱 I’m currently learning C++, POO.
+- 🤔 I’m looking for help with how to code.
