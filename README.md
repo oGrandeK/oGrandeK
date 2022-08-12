@@ -6,4 +6,4 @@
 
 
 LinkedIn:
-https://www.linkedin.com/in/kelvim-kauam-b26448179/
+https://www.linkedin.com/in/kelvimkauam/
