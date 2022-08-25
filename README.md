@@ -1,8 +1,6 @@
 * Olá!.
 
-* Me chamo Kelvim e estou a alguns meses na empreitada no mundo da programação. 
-* Atualmente estou apenas estudando C# na plataforma da Alura onde já fiz diversos cursos de C#.
-* Estou seguindo o caminho FullStack em C#.
+* Me chamo Kelvim, seja muito bem vindo ao meu perfil. 
 
 
 LinkedIn:
