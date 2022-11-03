@@ -1,4 +1,4 @@
-* Olá, me chamo Kelvim, seja muito bem vindo ao meu perfil. 
+Olá, me chamo Kelvim, seja muito bem vindo ao meu perfil. 
 
 Estou a 1 ano na caminhada da programação onde estudei de tudo um pouco mas foi com a linguagem C# que me identifiquei.
 
