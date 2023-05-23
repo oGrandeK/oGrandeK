@@ -11,5 +11,3 @@ Meus conhecimentos adquiridos até entao:
 
 LinkedIn:
 https://www.linkedin.com/in/kelvimkauam/
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oGrandeK&count_private=true&theme=radical)
